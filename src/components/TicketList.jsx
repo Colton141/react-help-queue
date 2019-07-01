@@ -6,7 +6,7 @@ function TicketList(){
     <Ticket
       location="3A"
       names="Marc and Coton"
-      issue="Firebase will not save record!"
+      issue="Firebase will not save record!"/>
   );
 }
 
